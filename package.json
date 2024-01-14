@@ -22,5 +22,8 @@
     "ttpt": "^0.8.4",
     "typescript": "^5.3.3",
     "yarn-upgrade-all": "^0.7.2"
+  },
+  "dependencies": {
+    "dukascopy-node": "^1.36.2"
   }
 }
